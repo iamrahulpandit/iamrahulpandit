@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://r4.wallpaperflare.com/wallpaper/8/821/142/microsoft-developer-office-windows-11-hd-wallpaper-a8068d588050ecf820ec215e68b2f4ba.jpg)](https://github.com/iamrahulpandit)
 <h1 align="center">Hi 👋, I'm Rahul Pandit</h1>
 <h3 align="center">A passionate Software Developer | UI/UX Designer.</h3>
-<img align="right" alt="Coding" width="400" src="https://logiclump.com/assets/img/Application-Development.png")>
+<img align="right" alt="Coding" width="400" src="https://logiclump.com/assets/img/Application-Development.png">
 
 - 🔭 I’m currently working on **ML Project**
 
